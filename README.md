@@ -1,7 +1,7 @@
 # my-portfolio
 
 > Thomas Designer Portfolio
-# 
+# link to the template that I used: https://startbootstrap.com/themes/resume/
 ## Build Setup
 
 ``` bash
